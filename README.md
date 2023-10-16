@@ -18,7 +18,14 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Full Stack Developer / Engineer
 -------------------------------
 
-Over the years, I've had the opportunity to learn various technologies, such as Java, Groovy, Spring, Javascript, PHP, Typescript, Angular, ReactJs, NodeJS, C# .NET, REST & GraphQL APIs, Azure, AWS, Git, MySQL, PostgreSQL, SQL Server, Cosmos DB, BPMN, always striving to follow Agile/DevOps principles, SOLID, and applying best practices like Clean Code, TDD, DDD, CI/CD, etc.* 🌍  I'm based in Brazil* 🖥️  See my portfolio at [GitHub pages](http://jjcorsif.github.io/gh-pages-portfolio/)* ✉️  You can contact me at [jjcorsif@hotmail.com](mailto:jjcorsif@hotmail.com)* 🚀  I'm currently working on [my portfolio](http://jjcorsif.github.io/gh-pages-portfolio/)* 🧠  I'm learning Golang* 🤝  I'm open to collaborating on interesting projects
+Over the years, I've had the opportunity to learn various technologies, such as Java, Groovy, Spring, Javascript, PHP, Typescript, Angular, ReactJs, NodeJS, C# .NET, REST & GraphQL APIs, Azure, AWS, Git, MySQL, PostgreSQL, SQL Server, Cosmos DB, BPMN, always striving to follow Agile/DevOps principles, SOLID, and applying best practices like Clean Code, TDD, DDD, CI/CD, etc.
+
+* 🌍  I'm based in Brazil
+* 🖥️  See my portfolio at [GitHub pages](http://jjcorsif.github.io/gh-pages-portfolio/)
+* ✉️  You can contact me at [jjcorsif@hotmail.com](mailto:jjcorsif@hotmail.com)
+* 🚀  I'm currently working on [my portfolio](http://jjcorsif.github.io/gh-pages-portfolio/)
+* 🧠  I'm learning Golang
+* 🤝  I'm open to collaborating on interesting projects
 
 <a href="https://www.github.com/JJCorsiF" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/github/followers/JJCorsiF?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" /></a>
