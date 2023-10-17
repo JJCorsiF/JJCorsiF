@@ -12,10 +12,12 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)
 
-Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is João Corsi
+Hello, internet! Welcome to my profile
 ==================================================================================================================================
-Full Stack Developer / Engineer
+
+I'm João Corsi, a Full Stack Developer / Engineer
 -------------------------------
 
 Over the years, I've had the opportunity to learn various technologies, such as Java, Groovy, Spring, Javascript, PHP, Typescript, Angular, ReactJs, NodeJS, C# .NET, REST & GraphQL APIs, Azure, AWS, Git, MySQL, PostgreSQL, SQL Server, Cosmos DB, BPMN, always striving to follow Agile/DevOps principles, SOLID, and applying best practices like Clean Code, TDD, DDD, CI/CD, etc.
