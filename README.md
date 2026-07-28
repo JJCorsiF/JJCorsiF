@@ -1,46 +1,103 @@
-<!--
-**JJCorsiF/JJCorsiF** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)
-
-Hello, internet! Welcome to my profile
-==================================================================================================================================
-
-I'm João Corsi, a Full Stack Developer / Engineer
--------------------------------
-
-Over the years, I've had the opportunity to learn various technologies, such as Java, Groovy, Spring, Javascript, PHP, Typescript, Angular, ReactJs, NodeJS, C# .NET, REST & GraphQL APIs, Azure, AWS, Git, MySQL, PostgreSQL, SQL Server, Cosmos DB, BPMN, always striving to follow Agile/DevOps principles, SOLID, and applying best practices like Clean Code, TDD, DDD, CI/CD, etc.
-
-* 🌍  I'm based in Brazil
-* 🖥️  See my portfolio at [GitHub pages](http://jjcorsif.github.io/gh-pages-portfolio/)
-* ✉️  You can contact me at [jjcorsif@hotmail.com](mailto:jjcorsif@hotmail.com)
-* 🚀  I'm currently working on [my portfolio](http://jjcorsif.github.io/gh-pages-portfolio/)
-* 🧠  I'm learning Golang
-* 🤝  I'm open to collaborating on interesting projects
-
 <a href="https://www.github.com/JJCorsiF" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/github/followers/JJCorsiF?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" /></a>
 
-### Skills
+# Hi, I'm João Corsi
 
-<p align="left">
-<a href="https://docs.microsoft.com/en-us/dotnet/csharp/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/csharp-colored.svg" width="36" height="36" alt="C#" /></a><a href="https://git-scm.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/git-colored.svg" width="36" height="36" alt="Git" /></a><a href="https://www.oracle.com/java/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/java-colored.svg" width="36" height="36" alt="Java" /></a><a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" width="36" height="36" alt="JavaScript" /></a><a href="https://www.php.net/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/php-colored.svg" width="36" height="36" alt="PHP" /></a><a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/typescript-colored.svg" width="36" height="36" alt="TypeScript" /></a><a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/html5-colored.svg" width="36" height="36" alt="HTML5" /></a><a href="https://reactjs.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/react-colored.svg" width="36" height="36" alt="React" /></a><a href="https://nextjs.org/docs" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/nextjs-colored-dark.svg" width="36" height="36" alt="NextJs" /></a><a href="https://angular.io/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/angularjs-colored.svg" width="36" height="36" alt="Angular" /></a><a href="https://jquery.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/jquery-colored.svg" width="36" height="36" alt="JQuery" /></a><a href="https://www.w3.org/TR/CSS/#css" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/css3-colored.svg" width="36" height="36" alt="CSS3" /></a><a href="https://sass-lang.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/sass-colored.svg" width="36" height="36" alt="Sass" /></a><a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/tailwindcss-colored.svg" width="36" height="36" alt="TailwindCSS" /></a><a href="https://chakra-ui.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/chakra-colored.svg" width="36" height="36" alt="Chakra UI" /></a><a href="https://getbootstrap.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/bootstrap-colored.svg" width="36" height="36" alt="Bootstrap" /></a><a href="https://vitejs.dev/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/vite-colored.svg" width="36" height="36" alt="Vite" /></a><a href="https://mui.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/materialui-colored.svg" width="36" height="36" alt="Material UI" /></a><a href="https://nodejs.org/en/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/nodejs-colored.svg" width="36" height="36" alt="NodeJS" /></a><a href="https://graphql.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/graphql-colored.svg" width="36" height="36" alt="GraphQL" /></a><a href="https://docs.nestjs.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/nestjs-colored.svg" width="36" height="36" alt="NestJS" /></a><a href="https://www.mysql.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mysql-colored.svg" width="36" height="36" alt="MySQL" /></a><a href="https://www.postgresql.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/postgresql-colored.svg" width="36" height="36" alt="PostgreSQL" /></a><a href="https://dotnet.microsoft.com/en-us/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/dot-net-colored.svg" width="36" height="36" alt=".NET" /></a><a href="https://laravel.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/laravel-colored.svg" width="36" height="36" alt="Laravel" /></a><a href="https://aws.amazon.com" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/aws-colored-dark.svg" width="36" height="36" alt="Amazon Web Services" /></a><a href="https://www.docker.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/docker-colored.svg" width="36" height="36" alt="Docker" /></a><a href="https://www.linux.org" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/linux-colored.svg" width="36" height="36" alt="Linux" /></a><a href="https://www.figma.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/figma-colored.svg" width="36" height="36" alt="Figma" /></a></p>
+I’m a Senior Software Engineer focused on building reliable backend systems, improving software delivery, and helping teams turn complex technical problems into clear, practical decisions.
 
-### Socials
+My work sits at the intersection of **distributed systems, software architecture, engineering effectiveness, and technical leadership**.
 
-<p align="left"> <a href="https://www.dev.to/jjcorsif" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/devdotto-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/devdotto.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/devdotto.svg" width="32" height="32" /> </picture> </a> <a href="https://www.github.com/JJCorsiF" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /> </picture> </a> <a href="https://hashnode.com/@JJCorsiF" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/hashnode.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/hashnode.svg" width="32" height="32" /> </picture> </a> <a href="http://www.instagram.com/jjcorsif" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg" width="32" height="32" /> </picture> </a> <a href="https://www.linkedin.com/in/jjcorsif" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /> </picture> </a> <a href="https://www.polywork.com/jjcorsif" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/polywork.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/polywork.svg" width="32" height="32" /> </picture> </a> <a href="http://www.medium.com/@jjcorsif" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/medium-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/medium.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/medium.svg" width="32" height="32" /> </picture> </a></p>
+## What I do
 
-### Badges
+* Design and evolve backend services and distributed systems
+* Build production systems with Java, Spring, messaging, cloud, and relational or NoSQL databases
+* Improve reliability, maintainability, observability, and delivery flow
+* Translate business and operational problems into technical solutions
+* Mentor engineers and help teams make better technical decisions
+* Use AI-assisted development to accelerate engineering work without compromising judgment or quality
 
-<a href="https://github.com/JJCorsiF" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JJCorsiF&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
+## How I approach engineering
+
+I prefer systems that are:
+
+* simple enough to understand;
+* reliable enough to operate;
+* observable enough to diagnose;
+* modular enough to evolve;
+* and useful enough to create measurable value.
+
+I care about more than writing code. I also look at the surrounding system: architecture, team boundaries, feedback loops, delivery constraints, ownership, and the decisions that shape long-term outcomes.
+
+## Areas of experience
+
+### Backend and distributed systems
+
+* Java and Spring
+* Reactive systems with WebFlux and Project Reactor
+* Event-driven architecture
+* Apache Kafka and asynchronous messaging
+* REST and GraphQL APIs
+* PostgreSQL, SQL Server, MySQL, DynamoDB, and Cosmos DB
+
+### Cloud and platform engineering
+
+* AWS and Azure
+* Kubernetes and Helm
+* CI/CD pipelines
+* Observability, logging, metrics, and production diagnostics
+* Secure integrations and cloud-native services
+
+### Software design and quality
+
+* Domain-Driven Design
+* Test-Driven Development
+* Clean Architecture and SOLID principles
+* Automated testing and contract testing
+* Architecture decision records
+* Refactoring and evolutionary design
+
+### Technical leadership
+
+* Mentoring and knowledge sharing
+* Architecture and design facilitation
+* Cross-functional collaboration
+* Engineering practices and code review
+* Flow, delivery, and organizational bottleneck analysis
+
+## Selected impact
+
+* Helped reduce critical production defects by strengthening automated testing and engineering discipline
+* Improved release consistency through clearer development and review practices
+* Supported engineers through mentoring, technical guidance, and collaborative problem-solving
+* Designed and maintained backend systems in payments, financial services, healthcare, insurance, education, and other business domains
+
+## Current interests
+
+I’m currently exploring:
+
+* AI-assisted software engineering
+* Agentic workflows for engineering teams
+* Developer productivity and engineering effectiveness
+* Distributed systems and resilient architectures
+* Flow engineering and organizational system design
+
+## Technologies
+
+**Primary:** Java, Spring, WebFlux, Reactor, Kafka, PostgreSQL, DynamoDB, AWS
+
+**Additional experience:** TypeScript, JavaScript, Node.js, React, Angular, GraphQL, Azure, Kubernetes, Helm, C#/.NET, PHP, Groovy
+
+## Principles I value
+
+* Solve the system, not only the symptom
+* Prefer evidence over assumptions
+* Make decisions and trade-offs explicit
+* Optimize for sustainable delivery, not local activity
+* Build the smallest solution that can prove value
+* Use technology to increase human capability, not replace judgment
+
+## Let’s connect
+
+I’m interested in conversations about backend engineering, distributed systems, software architecture, technical leadership, engineering effectiveness, and AI-assisted development.
+
+[LinkedIn](https://www.linkedin.com/in/jjcorsif) · [Email](mailto:jjcorsif@hotmail.com)
