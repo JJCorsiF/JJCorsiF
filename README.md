@@ -101,3 +101,5 @@ I’m currently exploring:
 I’m interested in conversations about backend engineering, distributed systems, software architecture, technical leadership, engineering effectiveness, and AI-assisted development.
 
 [LinkedIn](https://www.linkedin.com/in/jjcorsif) · [Email](mailto:jjcorsif@hotmail.com)
+
+![snake animation](https://github.com/JJCorsiF/JJCorsiF/blob/output/github-contribution-grid-snake2.svg)
