@@ -7,28 +7,6 @@ I’m a Senior Software Engineer with approximately nine years of professional d
 
 My recent work includes implementing backend services, asynchronous processing with Kafka, and reliability improvements through collaborative diagnosis and testing. I also have frontend experience with React and Angular and pursue fullstack roles with a strong backend focus.
 
-## What I do
-
-* Implement and evolve backend services with Java and Spring
-* Develop REST APIs and asynchronous processing with Kafka
-* Investigate reliability issues with teammates and implement and test improvements
-* Write automated tests and review code for correctness and maintainability
-* Discuss implementation choices, technical risks, and trade-offs with peers and technical leads
-* Support junior developers through mentoring and collaborative problem-solving
-* Build and maintain frontend features with React and Angular when working across the stack
-
-## How I approach engineering
-
-I prefer systems that are:
-
-* simple enough to understand;
-* reliable enough to operate;
-* observable enough to diagnose;
-* modular enough to evolve;
-* and useful enough to create measurable value.
-
-I care about more than writing code. I also look at the surrounding system: architecture, team boundaries, feedback loops, delivery constraints, ownership, and the decisions that shape long-term outcomes.
-
 ## Areas of experience
 
 ### Backend engineering
@@ -64,7 +42,7 @@ I care about more than writing code. I also look at the surrounding system: arch
 
 ## Selected contributions
 
-* Implemented concurrency limits, backpressure, and connection-pool controls in Java/Spring services, working with the technical lead on diagnosis and validation.
+* Implemented concurrency limits, backpressure, and connection-pool controls in a Java/Spring application, working with the technical lead on diagnosis and validation.
 * Added unit and integration tests to an existing application. In my observation, most subsequent deliveries were accepted without bugs reported by QA or the client.
 * Supported junior developers through mentoring, code review, and collaborative problem-solving.
 * Implemented and evolved backend services within team-defined architectures, discussing implementation choices and technical risks with peers and technical leads.
