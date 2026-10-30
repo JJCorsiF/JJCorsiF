@@ -3,18 +3,19 @@ src="https://img.shields.io/github/followers/JJCorsiF?logo=github&style=for-the-
 
 # Hi, I'm João Corsi
 
-I’m a Senior Software Engineer focused on building reliable backend systems, improving software delivery, and helping teams turn complex technical problems into clear, practical decisions.
+I’m a Senior Software Engineer with approximately nine years of professional development experience, focused on backend engineering with Java and Spring.
 
-My work sits at the intersection of **distributed systems, software architecture, engineering effectiveness, and technical leadership**.
+My recent work includes implementing backend services, asynchronous processing with Kafka, and reliability improvements through collaborative diagnosis and testing. I also have frontend experience with React and Angular and pursue fullstack roles with a strong backend focus.
 
 ## What I do
 
-* Design and evolve backend services and distributed systems
-* Build production systems with Java, Spring, messaging, cloud, and relational or NoSQL databases
-* Improve reliability, maintainability, observability, and delivery flow
-* Translate business and operational problems into technical solutions
-* Mentor engineers and help teams make better technical decisions
-* Use AI-assisted development to accelerate engineering work without compromising judgment or quality
+* Implement and evolve backend services with Java and Spring
+* Develop REST APIs and asynchronous processing with Kafka
+* Investigate reliability issues with teammates and implement and test improvements
+* Write automated tests and review code for correctness and maintainability
+* Discuss implementation choices, technical risks, and trade-offs with peers and technical leads
+* Support junior developers through mentoring and collaborative problem-solving
+* Build and maintain frontend features with React and Angular when working across the stack
 
 ## How I approach engineering
 
@@ -39,37 +40,34 @@ I care about more than writing code. I also look at the surrounding system: arch
 * REST and GraphQL APIs
 * PostgreSQL, SQL Server, MySQL, DynamoDB, and Cosmos DB
 
-### Cloud and platform engineering
+### Cloud integrations and application observability
 
-* AWS and Azure
-* Kubernetes and Helm
-* CI/CD pipelines
-* Observability, logging, metrics, and production diagnostics
-* Secure integrations and cloud-native services
+* Application integrations with AWS and Azure services
+* Application logging and monitoring
+* Collaborative diagnosis of application reliability issues
+* Development within established CI/CD workflows
 
 ### Software design and quality
 
-* Domain-Driven Design
-* Test-Driven Development
-* Clean Architecture and SOLID principles
-* Automated testing and contract testing
-* Architecture decision records
-* Refactoring and evolutionary design
+* Unit and integration testing
+* API contract design with OpenAPI
+* Code review and discussion of implementation trade-offs
+* Refactoring and maintenance of existing applications
+* Separation of responsibilities and maintainable application code
 
-### Technical leadership
+### Technical collaboration and mentoring
 
-* Mentoring and knowledge sharing
-* Architecture and design facilitation
-* Cross-functional collaboration
-* Engineering practices and code review
-* Flow, delivery, and organizational bottleneck analysis
+* Mentoring junior developers through practical guidance and collaborative problem-solving
+* Sharing knowledge and supporting teammates during implementation
+* Reviewing code and discussing technical risks and alternatives
+* Collaborating with technical leads on diagnosis and implementation decisions
 
-## Selected impact
+## Selected contributions
 
-* Helped reduce critical production defects by strengthening automated testing and engineering discipline
-* Improved release consistency through clearer development and review practices
-* Supported engineers through mentoring, technical guidance, and collaborative problem-solving
-* Designed and maintained backend systems in payments, financial services, healthcare, insurance, education, and other business domains
+* Implemented concurrency limits, backpressure, and connection-pool controls in Java/Spring services, working with the technical lead on diagnosis and validation.
+* Added unit and integration tests to an existing application. In my observation, most subsequent deliveries were accepted without bugs reported by QA or the client.
+* Supported junior developers through mentoring, code review, and collaborative problem-solving.
+* Implemented and evolved backend services within team-defined architectures, discussing implementation choices and technical risks with peers and technical leads.
 
 ## Current interests
 
