@@ -31,14 +31,14 @@ I care about more than writing code. I also look at the surrounding system: arch
 
 ## Areas of experience
 
-### Backend and distributed systems
+### Backend engineering
 
 * Java and Spring
-* Reactive systems with WebFlux and Project Reactor
-* Event-driven architecture
-* Apache Kafka and asynchronous messaging
-* REST and GraphQL APIs
-* PostgreSQL, SQL Server, MySQL, DynamoDB, and Cosmos DB
+* Reactive programming with Spring WebFlux and Project Reactor
+* Asynchronous processing with Apache Kafka
+* REST APIs and application integrations
+* Relational and NoSQL database integration
+* Application-level concurrency limits, backpressure, and connection-pool controls
 
 ### Cloud integrations and application observability
 
@@ -96,6 +96,6 @@ I’m currently exploring:
 
 ## Let’s connect
 
-I’m interested in conversations about backend engineering, distributed systems, software architecture, technical leadership, engineering effectiveness, and AI-assisted development.
+I’m looking for Senior Backend Engineer roles focused on Java and Spring, as well as fullstack opportunities with a strong backend emphasis.
 
 [LinkedIn](https://www.linkedin.com/in/jjcorsif) · [Email](mailto:jjcorsif@hotmail.com)
